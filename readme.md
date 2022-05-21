@@ -14,10 +14,10 @@ get the data from database(get all the students)
   	a) Create a POJO or a domain class called:
   	
   	Student
-  	->id
-  	->name
-  	->mobile
-  	->country
+  	- id
+  	- name
+  	- mobile
+  	- country
   	
   	
   1. create a DAO called StudentDAO(I)
