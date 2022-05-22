@@ -1,5 +1,12 @@
 Build a webpage to display the students(db)
 ===========================
+
+### using java
+===========================
+- springMVC to handle request from client
+- maven to import dependents
+- spring jdbcTemplate 
+
 	a. Configure dispatcher servlet
 	b. Create a configuration file
   1. create controller (StudentController)
